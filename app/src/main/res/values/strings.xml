@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnJeetpackCompose</string>
+    <string name="Shanto_Text">Hello! Jetpack Compose</string>
+    <string name="Ai_Image_Description">Ai_Automation_Image</string>
+</resources>
